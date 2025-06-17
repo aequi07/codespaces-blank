@@ -2,3 +2,26 @@
     box-sizing: border-box;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+.header {
+ background-color: purple;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: yellow;
+    width:100vw;
+}
+.bookshelf {
+    width: 100px;
+    height: 98vh;
+    background-color: rgb(36, 3, 3);
+    position: fixed;
+}
+#shelf1 {
+
+}
+#shelf2{
+
+}
+
